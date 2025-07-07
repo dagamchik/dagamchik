@@ -49,7 +49,6 @@
 ## 📊 **My stats**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dagamchik&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagamchik&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
 </div>
 
