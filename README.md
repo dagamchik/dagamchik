@@ -57,7 +57,7 @@
 ## 🤝 **My contacts**
 
 <div align="center">
-  <a href="mailto:mail@dagamchik.ru">
+  <a href="mailto:dagamchik068@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://t.me/dagamchik">
